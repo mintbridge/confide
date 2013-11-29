@@ -21,8 +21,8 @@
     },
     "require-dev": {
         "mockery/mockery": "0.7.2",
-        "illuminate/database": "4.0.x",
-        "illuminate/auth": "4.0.x"
+        "illuminate/database": "4.*",
+        "illuminate/auth": "4.*"
     },
     "suggest": {
         "zizaco/entrust":"add Role-based Permissions to Laravel 4"
